@@ -31,6 +31,11 @@ Software Requirement to run this project
 -You Need To have Python 3.9 or above version
 Tools and Technologies to be used in this project
 
+Technologies:
+Python (backend)
+Streamlit (front-end)
+SQLite3 (database)
+
 -Use VSCODE To Run Application.
 -Create Account In Github and Streamlit Account.
 -Database is SQLITE (no need to install software)
