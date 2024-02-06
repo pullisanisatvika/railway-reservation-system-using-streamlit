@@ -99,3 +99,19 @@ Viewing seat availability
 Closing the database connection:
 
 conn.close()
+
+Future Development:
+Implement user authentication and roles.
+Integrate secure payment gateways.
+Develop advanced search functionalities.
+Enhance UI/UX for a polished experience.
+Generate comprehensive reports for admins.
+
+Contributing:
+We welcome contributions! Please refer to the CONTRIBUTING.md file for guidelines.
+
+License:
+MIT License
+
+Disclaimer:
+This project is currently under development and may not be fully functional. It is intended for demonstration and educational purposes only.
