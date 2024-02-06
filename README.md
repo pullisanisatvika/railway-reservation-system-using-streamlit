@@ -4,7 +4,7 @@
 # Aim :
 To create a user friendly Graphical User Interface (GUI) to ease the process of booking railway tickets, in contradictory to travel to the ticket counter and standing in long queues.
 
-Specs :
+#Specs :
 Used the python Tkinter library for creating and editing the GUI.
 Connected a SQLite3 database to the portal so that the data is stored in the backend.
 Created a user authentication feature that asks for the username and password. (In the code there are three names that can be used as the username and the password for the same is "844")
