@@ -1,5 +1,5 @@
 # railway-reservation-system
-# Author Pullisani Satvika
+#Author Pullisani Satvika
 
 # Aim :
 To create a user friendly Graphical User Interface (GUI) to ease the process of booking railway tickets, in contradictory to travel to the ticket counter and standing in long queues.
