@@ -56,7 +56,7 @@ SQLite3 (database)
 
 # IMPLEMENTATION
 # Database:
- # SQLite3:
+ SQLite3:
  A lightweight, file-based database used to store and manage railway data.
  Tables:
 trains: Stores train information (number, name, departure date, destinations).
